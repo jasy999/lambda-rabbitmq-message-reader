@@ -1,0 +1,1 @@
+# lambda-rabbitmq-message-reader
